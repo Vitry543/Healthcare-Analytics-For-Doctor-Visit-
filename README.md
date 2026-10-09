@@ -43,4 +43,4 @@ The analysis utilizes a dataset of **5,190 patient records** containing the foll
 ## ⚙️ How to Run the Code
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/Vitry543/Healthcare-Analytics-For-Doctor-Visits.git](https://github.com/Vitry543/Healthcare-Analytics-For-Doctor-Visits.git)
+   git clone [https://github.com/Vitry543/Healthcare-Analytics-For-Doctor-Visit-.git](https://github.com/Vitry543/Healthcare-Analytics-For-Doctor-Visit-.git)
